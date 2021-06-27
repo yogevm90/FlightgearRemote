@@ -12,6 +12,10 @@
         "source": "C:\\Users\\Yogev\\IdeaProjects\\FlightGear\\app\\src\\main\\res\\layout\\joystick.xml"
     },
     {
+        "merged": "C:\\Users\\Yogev\\IdeaProjects\\FlightGear\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_joystick.xml.flat",
+        "source": "C:\\Users\\Yogev\\IdeaProjects\\FlightGear\\app\\src\\main\\res\\layout-v26\\joystick.xml"
+    },
+    {
         "merged": "C:\\Users\\Yogev\\IdeaProjects\\FlightGear\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Yogev\\IdeaProjects\\FlightGear\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
@@ -68,12 +72,12 @@
         "source": "C:\\Users\\Yogev\\IdeaProjects\\FlightGear\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Yogev\\IdeaProjects\\FlightGear\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\Yogev\\IdeaProjects\\FlightGear\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "C:\\Users\\Yogev\\IdeaProjects\\FlightGear\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Yogev\\IdeaProjects\\FlightGear\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yogev\\IdeaProjects\\FlightGear\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Yogev\\IdeaProjects\\FlightGear\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\Yogev\\IdeaProjects\\FlightGear\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",

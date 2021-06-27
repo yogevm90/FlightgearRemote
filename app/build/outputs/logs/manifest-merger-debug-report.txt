@@ -9,6 +9,7 @@ MERGED from [androidx.databinding:databinding-runtime:4.0.0] C:\Users\Yogev\.gra
 MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\920221e47fcbc9acb859434e1d2411ed\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\0dfbd3116c5a4b755f4e58d261b1bc1f\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\480c8397977ec4fe1a710555f2036a5c\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.github.controlwear:virtualjoystick:1.10.1] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\67d2c3de77249cbb8ba41dbfae220792\jetified-virtualjoystick-1.10.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.databinding:viewbinding:4.0.0] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\8c4305dc3012e63e3993fbd9a910e5c0\jetified-viewbinding-4.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\c204a2491744be053c0a26efd0023367\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.2.3] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\0d03e6296b43af421c2c2ec7ad3a9e59\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
@@ -101,6 +102,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Yogev\.g
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\0dfbd3116c5a4b755f4e58d261b1bc1f\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\480c8397977ec4fe1a710555f2036a5c\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\480c8397977ec4fe1a710555f2036a5c\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.github.controlwear:virtualjoystick:1.10.1] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\67d2c3de77249cbb8ba41dbfae220792\jetified-virtualjoystick-1.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.controlwear:virtualjoystick:1.10.1] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\67d2c3de77249cbb8ba41dbfae220792\jetified-virtualjoystick-1.10.1\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.databinding:viewbinding:4.0.0] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\8c4305dc3012e63e3993fbd9a910e5c0\jetified-viewbinding-4.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:viewbinding:4.0.0] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\8c4305dc3012e63e3993fbd9a910e5c0\jetified-viewbinding-4.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Yogev\.gradle\caches\transforms-2\files-2.1\c204a2491744be053c0a26efd0023367\fragment-1.3.4\AndroidManifest.xml:20:5-22:41

@@ -2,10 +2,11 @@ package com.example.flightgear.models;
 
 import java.io.PrintWriter;
 import java.net.Socket;
+import java.util.Observable;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class JoystickModel implements JoystickModelInterface {
+public class JoystickModel extends Observable implements IJoystickModel {
     private PrintWriter out;
     private boolean connected;
     private Socket socket;
@@ -13,6 +14,10 @@ public class JoystickModel implements JoystickModelInterface {
 
     public JoystickModel() {
         executor = Executors.newSingleThreadExecutor();
+    }
+
+    public boolean getConnectionStatus() {
+        return connected;
     }
 
     @Override
@@ -24,6 +29,8 @@ public class JoystickModel implements JoystickModelInterface {
                     connected = true;
                     out = new PrintWriter(socket.getOutputStream(), true);
                 }
+                setChanged();
+                notifyObservers();
             }
         }
         catch (Exception e){
